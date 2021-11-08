@@ -7,9 +7,7 @@ tags:
   - Netlify
 image: /images/logoData1.jpg
 image_alt: Post 5 placeholder image
-excerpt: >-
-  Contamos Con data de proyectos inmobiliarios que representan un 40% del
-  mercado
+excerpt: "“Invertimos y diseñamos\_con data de oferta, poco\_confiable, pasada, en vez de\_lo que el cliente demanda”\_​​“Gasto mucho tiempo\_recopilar data UTIL. Es\_tedioso”"
 seo:
   title: Amet Nulla Facilisi Morbi Tempus
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
