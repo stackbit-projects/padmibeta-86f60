@@ -45,10 +45,10 @@ sections:
             url: /features
             style: secondary
       - title: Perfil Del Comprador
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Te entregamos informacion de las caracteristicas de los usuarios,  que
+          adquiren inmuebles para que puedas perfilar y entender la verdadera
+          necesidad del mercado
         align: left
         image: /images/analisisComprador.png
         image_alt: Feature 3 placeholder image
