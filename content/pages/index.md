@@ -31,10 +31,7 @@ sections:
         image: /images/geo.png
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Analisis Graficos de la Demanda
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
