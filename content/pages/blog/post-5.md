@@ -1,8 +1,7 @@
 ---
 title: Data
 date: '2020-06-02'
-categories:
-  - content/data/categories/tutorials.yaml
+categories: []
 tags:
   - Stackbit
   - Netlify
