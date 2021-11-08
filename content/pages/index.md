@@ -59,7 +59,7 @@ sections:
             style: secondary
   - type: blog_feed_section
     title: Que es lo nuevo
-    show_recent: false
+    show_recent: true
     recent_count: 3
   - type: cta_section
     title: This Is A CTA
