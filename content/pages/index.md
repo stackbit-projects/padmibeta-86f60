@@ -5,9 +5,6 @@ sections:
     title: PADMI
     subtitle: "Una herramienta de inteligencia de mercado con data & analítica\_de\_demanda del mercado y sus clientes, confiable, representativa, y oportuna,\_con módulos enfocados en responder las principales preguntas del negocio"
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
