@@ -7,7 +7,7 @@ tags:
   - Sourcebit
 image: /images/1.png
 image_alt: Post 4 placeholder image
-excerpt: "Con data anonimizada descriptiva y\_georeferenciada, accesible para el BCP\_por su posición de liderazgo financiero en el otorgamiento de créditos\_hipotecarios e inmobiliarios. Tenemos data validada de los inmuebles y sus\_compradores, y las transacciones de compra/venta que rigen el mercado"
+excerpt: "“Para invertir, tanteamos el\_precio. Somos reactivos\_porque no tenemos otra”\_​​“Los\_focus\_no sirven, a todo\_te dicen SI”\_​​“No hay proxys de demanda\_proyectada confiable”"
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
