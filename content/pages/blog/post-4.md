@@ -1,5 +1,5 @@
 ---
-title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+title: Estrategia
 date: '2020-05-30'
 categories: []
 tags:
