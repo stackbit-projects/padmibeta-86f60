@@ -32,10 +32,10 @@ sections:
         image_position: right
         actions: []
       - title: Analisis Graficos de la Demanda
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >+
+          Entregamos metricas de las caracteristicas mas relevantes, que afectan
+          el desempeño de ventas de un proyecto inmobiliario
+
         align: left
         image: /images/analisisGrafico.png
         image_alt: Feature 2 placeholder image
