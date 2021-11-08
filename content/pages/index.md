@@ -40,10 +40,7 @@ sections:
         image: /images/analisisGrafico.png
         image_alt: Feature 2 placeholder image
         image_position: left
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
+        actions: []
       - title: Perfil Del Comprador
         content: >
           Te entregamos informacion de las caracteristicas de los usuarios,  que
