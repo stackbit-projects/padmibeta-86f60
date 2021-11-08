@@ -1,8 +1,7 @@
 ---
 title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
 date: '2020-05-30'
-categories:
-  - content/data/categories/news.yaml
+categories: []
 tags:
   - JAMstack
   - Sourcebit
