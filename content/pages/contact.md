@@ -4,6 +4,12 @@ sections:
   - type: hero_section
     title: Contact
     align: center
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
   - type: contact_section
 seo:
   title: Contact
