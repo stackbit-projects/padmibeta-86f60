@@ -5,7 +5,7 @@ categories: []
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: /images/1.png
 image_alt: Post 4 placeholder image
 excerpt: "Con data anonimizada descriptiva y\_georeferenciada, accesible para el BCP\_por su posición de liderazgo financiero en el otorgamiento de créditos\_hipotecarios e inmobiliarios. Tenemos data validada de los inmuebles y sus\_compradores, y las transacciones de compra/venta que rigen el mercado"
 seo:
