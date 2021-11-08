@@ -7,10 +7,7 @@ tags:
   - Sourcebit
 image: images/4.png
 image_alt: Post 4 placeholder image
-excerpt: >-
-  Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
-  Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum
-  vitium consuetudo Latina traduceret.
+excerpt: "Con data anonimizada descriptiva y\_georeferenciada, accesible para el BCP\_por su posición de liderazgo financiero en el otorgamiento de créditos\_hipotecarios e inmobiliarios. Tenemos data validada de los inmuebles y sus\_compradores, y las transacciones de compra/venta que rigen el mercado"
 seo:
   title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
