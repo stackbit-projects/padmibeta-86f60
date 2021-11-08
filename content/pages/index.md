@@ -23,10 +23,9 @@ sections:
     title: Caracteristicas
     features:
       - title: Resumen Geolocalizado de Ventas
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Informacion geolocalizada para una mejor vision de la situacion
+          gegrafica por proyectos y por saturaciones
         align: left
         image: /images/geo.png
         image_alt: Feature 1 placeholder image
