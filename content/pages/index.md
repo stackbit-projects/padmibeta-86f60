@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: PADMI
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: "Una herramienta de inteligencia de mercado con data & analítica\_de\_demanda del mercado y sus clientes, confiable, representativa, y oportuna,\_con módulos enfocados en responder las principales preguntas del negocio"
     actions:
       - label: Learn More
         url: /features
